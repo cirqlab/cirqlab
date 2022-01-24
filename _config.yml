@@ -20,7 +20,7 @@ timezone: US/Pacific
 
 title: Cirqlab                          # the main title
 
-tagline: Making a universe of nerdly delights   # it will display as the sub-title
+tagline: Making a universe of nerdly delight   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -82,7 +82,7 @@ theme_mode:   dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/vird.jpg
+avatar: 
 
 # boolean type, the global switch for ToC in posts.
 toc: true
