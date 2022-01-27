@@ -2,6 +2,7 @@
 layout: post
 title: Ugrainium 2.35
 date: 2022-01-26 19:09 -0800
+topic: [Lifehack, Nutrition]
 ---
 ## Problem Description
 
@@ -23,7 +24,7 @@ A set of base ingredients are selected and combined in the proper ratios to matc
 A set of base ingredients were selected by going through the USDA foods database and the NIH articles on nutrition for specific foods. The ingredients were also taste tested by varying the recipe every once in a while. Some of the base ingredients include flaxseed, barley, oats, lecithin (for choline), pea and whey protein.
 
 ### Recipe Calculation
-The SciPy library includes a set of optimizers which are used to find the optimal combination of ingredients to meet my nutritional needs
+The SciPy library includes a set of optimizers which are used to find the optimal combination of ingredients to meet nutritional needs. The set of ingredients along with their nutrients plus a personal nutrition profile are kept in a Google Sheet and read-in by the optimizer
 
 ### Preparation
 
