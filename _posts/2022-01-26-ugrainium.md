@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Ugrainium 2.35
-date: 2022-01-26 19:09 -0800
-topic: [Lifehack, Nutrition]
+date: 2018-01-26 19:09 -0800
+categories: [Lifehack, Nutrition]
+tags: [timehack, nutrition, habits]
 ---
 ## Problem Description
 
@@ -33,7 +34,7 @@ The SciPy library includes a set of optimizers which are used to find the optima
 
 A side effect of having prepared meals is that hunger based eating and food selection is taken out of the equation. That has meant that over-eating and snacking on junk food doesn't happen. As a result, it's easy to be at an ideal body composition, just eat on schedule.
 
-Another boon has been for long bike rides. It's much easier to stay at the right level of calories by bringing Ugrainium on the ride and mixing in with water along the way. Mid-ride bonking has been eliminated.
+Another boon has been for long bike rides. It's much easier to stay fueled-up by bringing Ugrainium on the ride and mixing in with water along the way. Mid-ride bonking has been eliminated. Plus Ugrainium is light-weight and not bulky which is great on a all day ride.
 
 ## What's Next
 
