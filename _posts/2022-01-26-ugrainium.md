@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ugrainium
+title: Ugrainium 2.35
 date: 2022-01-26 19:09 -0800
 ---
 ## Problem Description
@@ -19,13 +19,20 @@ A set of base ingredients are selected and combined in the proper ratios to matc
 
 ## Steps
 
-A set of base ingredients were selected by going through the USDA foods database and the NIH articles on nutrition for specific foods. The incgredients were also taste tested by varying the recipe every once in a while. Some of the base ingredients include flaxseed, barley, oats, lecithin (for choline), pea and whey protein.
+### Ingredient Selection
+A set of base ingredients were selected by going through the USDA foods database and the NIH articles on nutrition for specific foods. The ingredients were also taste tested by varying the recipe every once in a while. Some of the base ingredients include flaxseed, barley, oats, lecithin (for choline), pea and whey protein.
 
+### Recipe Calculation
 The SciPy library includes a set of optimizers which are used to find the optimal combination of ingredients to meet my nutritional needs
+
+### Preparation
+
 
 ## Aha!
 
-A side effect of having prepared meals is that hunger based eating and food selection is taken out of the equation. That has meant that over-eating and snacking on junk food doesn't happen. As a result, I've been at an ideal body composition since after starting and have avoided the Covid pounds.
+A side effect of having prepared meals is that hunger based eating and food selection is taken out of the equation. That has meant that over-eating and snacking on junk food doesn't happen. As a result, it's easy to be at an ideal body composition, just eat on schedule.
+
+Another boon has been for long bike rides. It's much easier to stay at the right level of calories by bringing Ugrainium on the ride and mixing in with water along the way. Mid-ride bonking has been eliminated.
 
 ## What's Next
 
