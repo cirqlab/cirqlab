@@ -5,9 +5,12 @@ date: 2018-03-25 19:09 -0800
 category: [Lifehack, Nutrition]
 tags: [timehack, nutrition, habits]
 description: Staying fueled without the hassle
-image: /assets/img/flax-seeds.jpg
+image:
+  src: /assets/img/flax-seeds.jpg
+  width: 1000
+  height: 200
+  alt: Ugrainium Mix
 ---
-![Ugrainium Mix]({{ page.image }})
 ## Problem Description
 
 Out of a typical day, I've measured that about 2-3 hours goes toward dealing with food in some way. Time spent preparing, foraging, eating, shopping, cleaning-up afterward, or recovering from the post-lunch sleepeez. That's close to 20%, more than a day a week, of my waking life tied-up with eating. What if that time could be taken back and used for something else less mundane, like art, spending time with friends, or just relaxing to get more creative energy?
@@ -30,14 +33,16 @@ A set of base ingredients were selected by going through the USDA foods database
 ### Recipe Calculation
 The SciPy library includes a set of optimizers which are used to find the optimal combination of ingredients to meet nutritional needs. The set of ingredients along with their nutrients plus a personal nutrition profile are kept in a Google Sheet and read-in by the optimizer
 
-### Equipment
-![Mixing Container with Fin](/assets/img/bucket-with-fin.jpg){: width="200" height="150" .right }
-![Mixing Container](/assets/img/mixing-bucket.jpg){: width="200" height="150" .right }
+### Equipment Needed
+![Mixing Container with Fin](/assets/img/bucket-with-fin.jpg){: width="200" height="150" .shadow .right }
+![Mixing Container](/assets/img/mixing-bucket.jpg){: width="200" height="150" .shadow .right }
 
- - The there are a few items which will be needed for the preparation of Ugrainium. A food-safe mixing container with a tight fitting lid is needed. A 25 liter mixing container has enough volume for about two weeks of food.
+There are a few items which will be needed for the preparation of Ugrainium:
+ - A food-safe _mixing container_ with a tight fitting lid. A 25 liter mixing container has enough volume for about two weeks of food.
  - Attaching an internal mixing fin is needed to thoroughly mix the ingredients
- - A 5kg scale with a 1g precision is need for measuring the bulk ingredients. A 50g scale with a 1mg precision is needed for measuring vitamin and mineral ingredients
- - Using a stand mixer eases the job of combining the non-bulk ingredients 
+ - All ingredient calculations and measurements are by mass. A _5kg scale_ with a 1g precision is need for measuring the bulk ingredients. _A 50g scale_ with a 1mg precision is needed for measuring vitamin and mineral ingredients
+ - A _coffee grinder_ for grinding tablets and minerals into a fine powder
+ - Optionally use a _stand mixer_. A stand mixer does a thorough job of mixing the non-bulk ingredients before being added to the bulk ingredients
 
 
 ## Aha!
