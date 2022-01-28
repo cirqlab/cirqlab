@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Ugrainium 2.35
-date: 2018-01-26 19:09 -0800
-categories: [Lifehack, Nutrition]
+date: 2018-03-25 19:09 -0800
+category: [Lifehack, Nutrition]
 tags: [timehack, nutrition, habits]
+description: Staying fueled without the hassle
+image: /assets/img/flax-seeds.jpg
 ---
+![Ugrainium Mix](/assets/img/flax-seeds.jpg)
 ## Problem Description
 
 Out of a typical day, I've measured that about 2-3 hours goes toward dealing with food in some way. Time spent preparing, foraging, eating, shopping, cleaning-up afterward, or recovering from the post-lunch sleepeez. That's close to 20%, more than a day a week, of my waking life tied-up with eating. What if that time could be taken back and used for something else less mundane, like art, spending time with friends, or just relaxing to get more creative energy?
