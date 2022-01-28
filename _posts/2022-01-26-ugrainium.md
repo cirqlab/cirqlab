@@ -7,7 +7,7 @@ tags: [timehack, nutrition, habits]
 description: Staying fueled without the hassle
 image: /assets/img/flax-seeds.jpg
 ---
-![Ugrainium Mix](/assets/img/flax-seeds.jpg)
+![Ugrainium Mix]({{ page.image }})
 ## Problem Description
 
 Out of a typical day, I've measured that about 2-3 hours goes toward dealing with food in some way. Time spent preparing, foraging, eating, shopping, cleaning-up afterward, or recovering from the post-lunch sleepeez. That's close to 20%, more than a day a week, of my waking life tied-up with eating. What if that time could be taken back and used for something else less mundane, like art, spending time with friends, or just relaxing to get more creative energy?
@@ -30,12 +30,19 @@ A set of base ingredients were selected by going through the USDA foods database
 ### Recipe Calculation
 The SciPy library includes a set of optimizers which are used to find the optimal combination of ingredients to meet nutritional needs. The set of ingredients along with their nutrients plus a personal nutrition profile are kept in a Google Sheet and read-in by the optimizer
 
-### Preparation
+### Equipment
+![Mixing Container with Fin](/assets/img/bucket-with-fin.jpg){: width="200" height="150" .right }
+![Mixing Container](/assets/img/mixing-bucket.jpg){: width="200" height="150" .right }
+
+ - The there are a few items which will be needed for the preparation of Ugrainium. A food-safe mixing container with a tight fitting lid is needed. A 25 liter mixing container has enough volume for about two weeks of food.
+ - Attaching an internal mixing fin is needed to thoroughly mix the ingredients
+ - A 5kg scale with a 1g precision is need for measuring the bulk ingredients. A 50g scale with a 1mg precision is needed for measuring vitamin and mineral ingredients
+ - Using a stand mixer eases the job of combining the non-bulk ingredients 
 
 
 ## Aha!
 
-A side effect of having prepared meals is that hunger based eating and food selection is taken out of the equation. That has meant that over-eating and snacking on junk food doesn't happen. As a result, it's easy to be at an ideal body composition, just eat on schedule.
+A side effect of having prepared meals is that hunger driven eating and food selection (junk food) are taken out of the equation. That has meant that over-eating and mindless snacking doesn't happen. As a result, it's easy to stay at an ideal weight and body composition, just eat on schedule.
 
 Another boon has been for long bike rides. It's much easier to stay fueled-up by bringing Ugrainium on the ride and mixing in with water along the way. Mid-ride bonking has been eliminated. Plus Ugrainium is light-weight and not bulky which is great on a all day ride.
 
