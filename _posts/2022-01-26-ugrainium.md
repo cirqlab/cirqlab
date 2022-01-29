@@ -49,7 +49,7 @@ There are a few items which will be needed for the preparation of Ugrainium:
 
 A side effect of having prepared meals is that hunger driven eating and food selection (junk food) are taken out of the equation. That has meant that over-eating and mindless snacking doesn't happen. As a result, it's easy to stay at an ideal weight and body composition, just eat on schedule.
 
-Another boon has been for long bike rides. It's much easier to stay fueled-up by bringing Ugrainium on the ride and mixing in with water along the way. Mid-ride bonking has been eliminated. Plus Ugrainium is light-weight and not bulky which is great on a all day ride.
+Another boon has been for long bike rides. It's much easier to stay fueled-up by bringing Ugrainium on the ride and mixing in with water along the way. Mid-ride bonking has been eliminated. Plus Ugrainium is light-weight (about 500g for the day) and not bulky which is great on a all day ride.
 
 ## What's Next
 
