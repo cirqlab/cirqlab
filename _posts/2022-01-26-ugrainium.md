@@ -35,17 +35,15 @@ The SciPy library includes a set of optimizers which are used to find the optima
 
 ### Equipment Needed
 ![Mixing Container with Fin](/assets/img/bucket-with-fin.jpg){: width="200" height="150" .shadow .right }
-_Mixing container with fin_
-
 ![Mixing Container](/assets/img/mixing-bucket.jpg){: width="200" height="150" .shadow .right }
-_25l mixing container_
 
 There are a few items which will be needed for the preparation of Ugrainium:
  - A food-safe _mixing container_ with a tight fitting lid. A 25 liter mixing container has enough volume for about two weeks of food.
  - Attaching an internal mixing fin is needed to thoroughly mix the ingredients
  - All ingredient calculations and measurements are by mass. A _5kg scale_ with a 1g precision is need for measuring the bulk ingredients. _A 50g scale_ with a 1mg precision is needed for measuring vitamin and mineral ingredients
  - A _coffee grinder_ for grinding tablets and minerals into a fine powder
- - Optionally use a _stand mixer_. A stand mixer does a thorough job of mixing the non-bulk ingredients before being added to the bulk ingredients
+ - Optional: use a _stand mixer_. A stand mixer does a thorough job of mixing the non-bulk ingredients before being added to the bulk ingredients. A _vacuum sealer_ is handy for packaging Ugrainium to be stored in the freezer
+ - Other items: A large bowl for the non-bulk ingredients, and a large scoop
 
 
 ## Aha!
