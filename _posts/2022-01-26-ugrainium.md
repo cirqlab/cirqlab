@@ -35,7 +35,10 @@ The SciPy library includes a set of optimizers which are used to find the optima
 
 ### Equipment Needed
 ![Mixing Container with Fin](/assets/img/bucket-with-fin.jpg){: width="200" height="150" .shadow .right }
+_Mixing container with fin_
+
 ![Mixing Container](/assets/img/mixing-bucket.jpg){: width="200" height="150" .shadow .right }
+_25l mixing container_
 
 There are a few items which will be needed for the preparation of Ugrainium:
  - A food-safe _mixing container_ with a tight fitting lid. A 25 liter mixing container has enough volume for about two weeks of food.
