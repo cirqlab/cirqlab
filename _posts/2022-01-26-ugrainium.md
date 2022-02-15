@@ -62,4 +62,4 @@ Another boon has been for long bike rides. It's much easier to stay fueled-up by
  - Bulk Pumpkin Spice from McCormick was on a post holiday sale at the local restaurant supply store. Since eggnog was good over the holidays, I'd thought it might be fun to give pumpkin spice a try for a Ugrainium flavoring. The first try was with 10 ml of pumpkin spice in 400 g of Ugrainium for the day. The result was a little strong. Am now trying 5 ml instead.
 
 2022.01.05  
- - Started adding 5 ml of Tumeric to the Ugrainium during the daily mixing. The color is much more appealing and warm, plus the tumeric supposidly can increase the antioxidant capacity of the body.
+ - Started adding 5 ml of Tumeric to the Ugrainium during the daily mixing. The color is much more appealing and warm, plus the [tumeric supposidly can increase the antioxidant capacity of the body](https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-turmeric).
