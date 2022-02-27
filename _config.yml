@@ -88,7 +88,7 @@ avatar: /assets/img/vird.jpg
 toc: true
 
 comments:
-  active: disqus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: #disqus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. ›
