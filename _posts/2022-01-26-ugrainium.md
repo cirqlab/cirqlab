@@ -58,6 +58,8 @@ Another boon has been for long bike rides. It's much easier to stay fueled-up by
 
 ## Log
 
+
+
 2022.02.15  
  - Bulk Pumpkin Spice from McCormick was on a post holiday sale at the local restaurant supply store. Since eggnog was good over the holidays, I'd thought it might be fun to give pumpkin spice a try for a Ugrainium flavoring. The first try was with 10 ml of pumpkin spice in 400 g of Ugrainium for the day. The result was a little strong. Am now trying 5 ml instead.
 
