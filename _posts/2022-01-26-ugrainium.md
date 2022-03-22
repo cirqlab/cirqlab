@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ugrainium 2.35
 date: 2018-03-25 19:09 -0800
 category: [Lifehack, Nutrition]

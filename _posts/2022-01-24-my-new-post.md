@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Little Zooks
 date: 2022-01-24 15:51 -0800
 tags: [jekyll, meta]
