@@ -27,7 +27,7 @@ A set of base ingredients are selected and combined in the proper ratios to matc
 ## Steps
 
 ### Ingredient Selection
-A set of [base ingredients](https://docs.google.com/spreadsheets/d/1Qr4MvDsJczSwaCH641YPpj6Tj8Bn2WxkkKkUG9jEKcA/edit#gid=1812860789) were selected by going through the USDA foods database and the NIH articles on nutrition for specific foods. The ingredients were also taste tested by varying the recipe every once in a while. Some of the base ingredients include flaxseed, barley, oats, lecithin (for choline), pea and whey protein.
+A set of [base ingredients](https://docs.google.com/spreadsheets/d/1Qr4MvDsJczSwaCH641YPpj6Tj8Bn2WxkkKkUG9jEKcA/edit#gid=1812860789) were selected by going through the USDA foods database and the NIH articles on nutrition for specific foods. The ingredients were also taste tested by varying the recipe every once in a while. Some of the base ingredients include flaxseed [^1], barley, oats, lecithin (for choline), pea and whey protein.
 
 ### Recipe Calculation
 The SciPy library includes a set of optimizers which are used to find the optimal combination of ingredients to meet nutritional needs. The set of ingredients along with their nutrients plus a [personal nutrition profile](https://docs.google.com/spreadsheets/d/1Qr4MvDsJczSwaCH641YPpj6Tj8Bn2WxkkKkUG9jEKcA/edit#gid=624419712) are kept in a Google Sheet and read-in by the optimizer
@@ -54,6 +54,10 @@ Another boon has been for long bike rides. It's much easier to stay fueled-up by
 ## What's Next
 
  - Use singular value decomposition to measure ingredient spread and use the information to select more ideal ingredients
+
+## Citations
+
+[^1]: M. Parikh, T. G. Maddaford, J. A. Austria, M. Aliani, T. Netticadan, and G. N. Pierce, “Dietary Flaxseed as a Strategy for Improving Human Health,” Nutrients, vol. 11, no. 5, p. 1171, May 2019, doi: 10.3390/nu11051171.
 
 ## Log
 
