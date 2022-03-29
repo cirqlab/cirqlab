@@ -27,7 +27,7 @@ A set of base ingredients are selected and combined in the proper ratios to matc
 ## Steps
 
 ### Ingredient Selection
-A set of [base ingredients](https://docs.google.com/spreadsheets/d/1Qr4MvDsJczSwaCH641YPpj6Tj8Bn2WxkkKkUG9jEKcA/edit#gid=1812860789) were selected by going through the USDA foods database and the NIH articles on nutrition for specific foods. The ingredients were also taste tested by varying the recipe every once in a while. Some of the base ingredients include flaxseed [^1], barley, oats, lecithin (for choline), pea and whey protein.
+A set of [base ingredients](https://docs.google.com/spreadsheets/d/1Qr4MvDsJczSwaCH641YPpj6Tj8Bn2WxkkKkUG9jEKcA/edit#gid=1812860789) were selected by going through the USDA foods database and the NIH articles on nutrition for specific foods. The ingredients were also taste tested by varying the recipe every once in a while. Some of the base ingredients include flaxseed [^1], barley, oats, lecithin (for choline), pea and whey protein. Additional ingredients are added for health benefits including turmeric and piperine [^2]
 
 ### Recipe Calculation
 The SciPy library includes a set of optimizers which are used to find the optimal combination of ingredients to meet nutritional needs. The set of ingredients along with their nutrients plus a [personal nutrition profile](https://docs.google.com/spreadsheets/d/1Qr4MvDsJczSwaCH641YPpj6Tj8Bn2WxkkKkUG9jEKcA/edit#gid=624419712) are kept in a Google Sheet and read-in by the optimizer
@@ -55,16 +55,17 @@ Another boon has been for long bike rides. It's much easier to stay fueled-up by
 
  - Use singular value decomposition to measure ingredient spread and use the information to select more ideal ingredients
 
-## Citations
-
-[^1]: M. Parikh, T. G. Maddaford, J. A. Austria, M. Aliani, T. Netticadan, and G. N. Pierce, “Dietary Flaxseed as a Strategy for Improving Human Health,” Nutrients, vol. 11, no. 5, p. 1171, May 2019, doi: 10.3390/nu11051171.
 
 ## Log
-
-
 
 2022.02.15  
  - Bulk Pumpkin Spice from McCormick was on a post holiday sale at the local restaurant supply store. Since eggnog was good over the holidays, I'd thought it might be fun to give pumpkin spice a try for a Ugrainium flavoring. The first try was with 10 ml of pumpkin spice in 400 g of Ugrainium for the day. The result was a little strong. Am now trying 5 ml instead.
 
 2022.01.05  
- - Started adding 5 ml of Tumeric to the Ugrainium during the daily mixing. The color is much more appealing and warm, plus the [tumeric supposidly can increase the antioxidant capacity of the body](https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-turmeric).
+ - Started adding 5 ml of turmeric to the Ugrainium during the daily mixing. The color is much more appealing and warm, plus the turmeric supposedly can increase the antioxidant capacity of the body [^2].
+
+## Bibliography
+
+ [^1]: M. Parikh, T. G. Maddaford, J. A. Austria, M. Aliani, T. Netticadan, and G. N. Pierce, “Dietary Flaxseed as a Strategy for Improving Human Health,” Nutrients, vol. 11, no. 5, p. 1171, May 2019, doi: 10.3390/nu11051171.
+
+ [^2]: Hewlings, Susan J., and Douglas S. Kalman. “Curcumin: A Review of Its’ Effects on Human Health.” Foods 6, no. 10 (October 22, 2017): 92. https://doi.org/10.3390/foods6100092.
